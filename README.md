@@ -1,6 +1,9 @@
 <div align="center">
 
 # 🌟 TorahMatrix – הרב לאון יעקובוב 🌟  
+
+<img width="1536" height="1024" alt="TorahMatrix in Cosmic Lightning" src="https://github.com/user-attachments/assets/3dacb480-9d18-4f67-9f53-e2126dd32f67" />
+
 ### ⬛ מפת חכמה שלמה לכל תחומי החיים דרך התורה ⬛
 
 🎯 פרויקט קודש בינתחומי לחיבור נשמה–עולם–מערכת  
